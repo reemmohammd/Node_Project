@@ -3,3 +3,4 @@
 function fun () {
     console.log("from hager");
 }
+fun()
