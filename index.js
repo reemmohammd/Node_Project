@@ -2,4 +2,6 @@
 "Hi again from Mohammed"
 function fun () {
     console.log("from hager");
+    cvhghf
 }
+fun()
